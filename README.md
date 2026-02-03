@@ -97,18 +97,25 @@ Focus future store expansions on larger selling areas in high-demand locations
 Follow the steps below to run this project locally: 
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/Mokshitsharma/Zudio-Data-Analysis-EDA.git
+
 cd Zudio-Data-Analysis-EDA
 
 2️⃣ Create a Virtual Environment (Optional but Recommended)
+
 python -m venv venv
+
 source venv/bin/activate        # For Linux / Mac
+
 venv\Scripts\activate           # For Windows
 
 3️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 4️⃣ Run the Jupyter Notebook
+
 jupyter notebook
 
 
